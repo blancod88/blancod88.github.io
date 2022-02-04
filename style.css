@@ -1,0 +1,39 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+  Color:Blue;
+  Font-family:helvetica;
+  background-color: pink;
+  border: 5px solid green;
+  padding: 50px
+}
+
+p{
+  color:orange;
+}
+
+h4{
+  color:purple;
+  background-color: white;
+  border: 3px double pink;
+}
+
+img{
+  border: 5px solid black;
+  width: 50%;
+  height:50%;
+  margin-left: 30px;
+}
+
+#highlight{
+  color: orange;
+  background-color: green;
+  border: 2px dotted red;
+}
+
+.top {
+    background-color: red;
+    float: left;
+}
